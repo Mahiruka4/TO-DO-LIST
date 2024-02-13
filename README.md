@@ -20,12 +20,8 @@
   - The first version of the program
 
 # About Me
-Full name : Abbas Ataei
+Full name : Mahir Uka
 
 Learning : Python
 
-Gmail : AbbasAtaei.py@gmail.com
-
-Telegram : https://t.me/Abbasataei_py
-
-More : https://bioly.io/AbbasAtaei
+Gmail : mahiruka4@gmail.com
